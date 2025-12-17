@@ -1,0 +1,22 @@
+{
+    "Keyboard": {
+        "price": 999,
+        "stock": 96
+    },
+    "Mouse": {
+        "price": 799,
+        "stock": 49
+    },
+    "SD Card": {
+        "price": 1299,
+        "stock": 75
+    },
+    "Pen Drive": {
+        "price": 3999,
+        "stock": 200
+    },
+    "Charger C to C": {
+        "price": 899,
+        "stock": 59
+    }
+}
